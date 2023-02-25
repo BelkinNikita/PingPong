@@ -1,6 +1,6 @@
 import turtle
 import winsound
-# WWINDOW
+# WINDOW
 wn = turtle.Screen()
 wn.title('PingPong by @BelkinNikita')
 wn.bgcolor('black')
